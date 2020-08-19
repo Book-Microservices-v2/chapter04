@@ -38,6 +38,10 @@ Requirements:
     challenges-frontend$ npm start
     ```
 
+Once the backend and the fronted are started, you can navigate to `http://localhost:3000` in your browser and start resolving multiplication challenges. Our MVP is finished!!
+
+![Multiplication application](resources/chapter4_app_screenshot.png)
+
 ## Questions
 
 * Do you have questions about how to make this application work?
